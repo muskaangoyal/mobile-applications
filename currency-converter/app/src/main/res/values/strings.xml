@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cryptocurrency Converter</string>
+    <string name="button_send">Refresh Exchange Rate</string>
+    <string name="btc">BTC</string>
+</resources>
