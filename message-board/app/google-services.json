@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739133085092",
+    "firebase_url": "https://android-location-based-message.firebaseio.com",
+    "project_id": "android-location-based-message",
+    "storage_bucket": "android-location-based-message.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739133085092:android:e0cc80453755255c18dd31",
+        "android_client_info": {
+          "package_name": "com.example.muskaangoyal.prog3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739133085092-h6e7l2652ku3t65im8ufr1vg7cnddett.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muskaangoyal.prog3",
+            "certificate_hash": "8251685da504b14ec0a53ceebaf2358ce149c1f9"
+          }
+        },
+        {
+          "client_id": "739133085092-djtl94vovqi3sf0i7g7ric1sqrtqb9b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkRNnoqwLSOQrfHQB5hw_EHlf40wE1IdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739133085092-djtl94vovqi3sf0i7g7ric1sqrtqb9b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

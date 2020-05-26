@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location-Based Message Board</string>
+    <string name="action_start">LOGIN</string>
+    <string name="action_sign_in">Sign in </string>
+    <string name="action_sign_in_short">Sign in</string>
+        completions."
+    <string name="update_location">UPDATE LOCATION</string>
+</resources>
